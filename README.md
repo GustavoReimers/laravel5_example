@@ -1,12 +1,12 @@
 ## Laravel 5 example ##
 
-For Laravel 5.3 improved version look at [this repository](https://github.com/bestmomo/laravel5-3-example).
+For Laravel 5.3 improved version look at [this repository](https://github.com/dragonboy612/laravel5_example).
 
 **Laravel 5 example** is a tutorial application for Laravel 5.2 (in french [there](http://laravel.sillo.org/laravel-5/)).
 
 ### Installation ###
 
-* `git clone https://github.com/bestmomo/laravel5-example.git projectname`
+* `git clone https://github.com/dragonboy612/laravel5_example.git projectname`
 * `cd projectname`
 * `composer install`
 * `php artisan key:generate`
@@ -16,7 +16,7 @@ For Laravel 5.3 improved version look at [this repository](https://github.com/be
 * `php artisan vendor:publish` to publish filemanager
 * `php artisan serve` to start the app on http://localhost:8000/
 
-Another cool way to install it is to upload [this package](http://laravel.sillo.org/tuto/installable.zip), unpack it in your server folder, and just launch it and follow the installation windows. It has been created with my [laravel installer package](https://github.com/bestmomo/laravel-installer). Anyway you'll have to set the email configuration.
+Another cool way to install it is to upload [this package](http://laravel.sillo.org/tuto/installable.zip), unpack it in your server folder, and just launch it and follow the installation windows. It has been created with my [laravel installer package](https://github.com/dragonboy612/laravel-installer). Anyway you'll have to set the email configuration.
 
 ### Nitrous Quickstart ###
 
@@ -58,7 +58,7 @@ In the IDE, start Laravel 5 Example via `Run > Start Laravel 5 Example` and acce
 ### Packages included ###
 
 * laravelcollective/html
-* bestmomo/filemanager
+* dragonboy612/filemanager
 
 ### Tricks ###
 
