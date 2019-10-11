@@ -6,7 +6,7 @@ For Laravel 5.3 improved version look at [this repository](https://github.com/dr
 
 ### Installation ###
 
-* `git clone https://github.com/dragonboy612/laravel5_example.git projectname`
+* `git clone https://github.com/SeniorDev34/laravel5_example.git projectname`
 * `cd projectname`
 * `composer install`
 * `php artisan key:generate`
@@ -58,7 +58,7 @@ In the IDE, start Laravel 5 Example via `Run > Start Laravel 5 Example` and acce
 ### Packages included ###
 
 * laravelcollective/html
-* dragonboy612/filemanager
+* SeniorDev34/filemanager
 
 ### Tricks ###
 
